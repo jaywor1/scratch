@@ -37,4 +37,6 @@ Tyto bloky se zabývají vzhledem našeho Scratche.
 
 ![image](https://github.com/jaywor1/scratch/blob/main/prvn%C3%AD_program/images/vzhled.png)
 
-- Vytvoř bublinu nad Scratchem
+- Vytvoř bublinu nad Scratchem, ve které je "Ahoj!" po dobu 2 sekund
+- Změň velikost Scratche o 10
+- Přepni pozadí na pozadí1
