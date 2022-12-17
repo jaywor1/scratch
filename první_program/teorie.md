@@ -11,3 +11,9 @@ V zeleně označeném oknu máte **všechny bloky, které jsou součástí progr
 
 V oranžově označeném oknu můžete vidět **výstup vašeho programu**.
 
+Nad výstupem programu můžete vidět dvě ikony:
+
+![image](https://github.com/jaywor1/scratch/blob/main/prvn%C3%AD_program/images/kontrola_programu.png)
+
+Zelená vlajka značí **začátek programu**.
+Červená stopka značí **ukončení programu**.
