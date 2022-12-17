@@ -16,4 +16,17 @@ Nad výstupem programu můžete vidět dvě ikony:
 ![image](https://github.com/jaywor1/scratch/blob/main/prvn%C3%AD_program/images/kontrola_programu.png)
 
 Zelená vlajka značí **začátek programu**.
+
 Červená stopka značí **ukončení programu**.
+
+## Události I.
+
+Následující bloky vyčkávají na nějakou událost a poté spustí bloky připojené pod sebou.
+
+Například na tomhle obrázku máme pár příkladů:
+
+![image](https://github.com/jaywor1/scratch/blob/main/prvn%C3%AD_program/images/control_blocks.png)
+
+- Po stisknutí zelené vlajky proveď následující bloky
+- Po kliknutí na mě proveď následující bloky
+- Po stisku klávesy proveď následují bloky
