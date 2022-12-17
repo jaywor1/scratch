@@ -1,0 +1,13 @@
+# Teorie
+
+## Scratch editor
+Pomocí linku [https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/) se dostanete na editor Scratche.
+
+![image](https://github.com/jaywor1/scratch/blob/main/prvn%C3%AD_program/images/codespace.png)
+
+V červeně označeném oknu máte **všechny dostupné bloky**.
+
+V zeleně označeném oknu máte **všechny bloky, které jsou součástí programu**.
+
+V žlutě označeném oknu můžete vidět **výstup vašeho programu**.
+
