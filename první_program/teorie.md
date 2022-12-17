@@ -9,5 +9,5 @@ V červeně označeném oknu máte **všechny dostupné bloky**.
 
 V zeleně označeném oknu máte **všechny bloky, které jsou součástí programu**.
 
-V orandžově označeném oknu můžete vidět **výstup vašeho programu**.
+V oranžově označeném oknu můžete vidět **výstup vašeho programu**.
 
