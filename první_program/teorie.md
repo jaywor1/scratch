@@ -30,3 +30,11 @@ Například na tomhle obrázku máme pár příkladů:
 - Po stisknutí zelené vlajky proveď následující bloky
 - Po kliknutí na mě proveď následující bloky
 - Po stisku klávesy proveď následují bloky
+
+## Vzhled I.
+
+Tyto bloky se zabývají vzhledem našeho Scratche.
+
+![image](https://github.com/jaywor1/scratch/blob/main/prvn%C3%AD_program/images/vzhled.png)
+
+- Vytvoř bublinu nad Scratchem
