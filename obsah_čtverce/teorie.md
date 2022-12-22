@@ -18,15 +18,21 @@ Následné příklady:
 
 Operátory se zabývají různými operacemi s proměnnými.
 
+### Jako například jednoduchými operaci s čísly
+
 ![image](images/cisla.png)
 
 - Výsledek 2+2 --> 4
 - Výsledek 3*23 --> 69
 
+### Nebo porovnáním čísel
+
 ![image](images/porovnani.png)
 
 - Je 3 větší než 2?
 - Je 1 rovná 2?
+
+### Nebo práci s řetězci
 
 ![image](images/retezce.png)
 
