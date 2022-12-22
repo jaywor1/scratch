@@ -4,6 +4,6 @@
 
 ![image](images/zadani.png)
 
-Link na teorii: [Teorie](https://github.com/jaywor1/scratch/blob/main/obsah_%C4%8Dtverce/teorie.md)
+[Link na teorii](https://github.com/jaywor1/scratch/blob/main/kladn%C3%A1_a_z%C3%A1porn%C3%A1_%C4%8D%C3%ADsla/teorie.md)
 
-Link na řešení: [Řešení](https://github.com/jaywor1/scratch/blob/main/obsah_%C4%8Dtverce/%C5%99e%C5%A1en%C3%AD.md)
+[Link na řešení](https://github.com/jaywor1/scratch/blob/main/kladn%C3%A1_a_z%C3%A1porn%C3%A1_%C4%8D%C3%ADsla/%C5%99e%C5%A1en%C3%AD.md)
