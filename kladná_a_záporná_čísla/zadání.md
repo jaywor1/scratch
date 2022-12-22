@@ -1,6 +1,6 @@
 # Zadání
 
-### Vytvořte následující program, kde se Scratch zeptá na stranu číslo, poté vypíše jestli je kladné/záporné/nula.
+### Vytvořte následující program, kde se Scratch zeptá na číslo, poté vypíše jestli je kladné/záporné/nula.
 
 ![image](images/zadani.png)
 
