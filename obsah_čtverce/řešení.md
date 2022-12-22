@@ -2,7 +2,7 @@
 
 ![image](images/obsah.png)
 
-- Obsah čtverce vypočítáme pomocí operátoru '*' a to tak, že vynásobíme odpověď s odpovědí ($a*a$)
+- Obsah čtverce vypočítáme pomocí operátoru '\*' a to tak, že vynásobíme odpověď s odpovědí ($a*a$)
 
 ### Naše kompletní řešení vypadá následovně:
 
