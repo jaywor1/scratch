@@ -18,3 +18,5 @@ V tomhle cvičení budeme potřebovat hlavně 2 bloky.
 
 ![image](images/pohyb.png)
 
+- Blok nalevo posune Scratche po **ose x** (doleva nebo doprava)
+- Blok napravo posune Scratche po **ose y** (nahoru nebo dolů)
