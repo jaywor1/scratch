@@ -16,6 +16,7 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - ### 6. [Pohyb](/cvi%C4%8Den%C3%AD/06-pohyb/zadan%C3%AD.md)
 
+- ### 7. [Počet kliknutí](/cvi%C4%8Den%C3%AD/07-po%C4%8Det_kliknut%C3%AD/zadan%C3%AD.md)
 
 ## TODO
 
