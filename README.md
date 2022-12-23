@@ -14,6 +14,8 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - ### 5. [Zvuk](/cvi%C4%8Den%C3%AD/05-zvuk/zad%C3%A1n%C3%AD.md)
 
+- ### 6. [Pohyb](/cvi%C4%8Den%C3%AD/06-pohyb/zadan%C3%AD.md)
+
 
 ## TODO
 
@@ -27,7 +29,7 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - [x] Zvuk
 
-- [ ] Pohyb
+- [x] Pohyb
 
 - [ ] Počet kliknutí
 
