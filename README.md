@@ -31,7 +31,7 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - [x] Pohyb
 
-- [ ] Počet kliknutí
+- [x] Počet kliknutí
 
 - [ ] Zjednodušení do funkce
 
