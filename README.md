@@ -35,6 +35,6 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - [ ] Zjednodušení do funkce
 
-- [ ] Chtání jablek
+- [ ] Chytání jablek
 
 - [ ] Zkrášlení 💖
