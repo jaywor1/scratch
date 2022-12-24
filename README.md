@@ -20,6 +20,7 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - ### 8. [Zjednodušení do funkce](/cvi%C4%8Den%C3%AD/08-zjednodu%C5%A1en%C3%AD_do_funkce/zadan%C3%AD.md)
 
+- ### 9. [Chytání jablek](/cvi%C4%8Den%C3%AD/09-chyt%C3%A1n%C3%AD_jablek/zadan%C3%AD.md)
 
 ## TODO
 
@@ -39,6 +40,6 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - [x] Zjednodušení do funkce
 
-- [ ] Chytání jablek
+- [x] Chytání jablek
 
 - [ ] Zkrášlení 💖
