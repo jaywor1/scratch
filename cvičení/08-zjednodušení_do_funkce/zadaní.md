@@ -1,6 +1,6 @@
 # Zadání
 
-### Zjednodušte následující program do funkce s parametrem **rychlost**, který bude rozhodovat o tom, jak rychle se bude Scratch pohybovat.
+### Zjednodušte následující program do funkce s parametrem **číslo**.
 
 ![image](images/zadani.png)
 
