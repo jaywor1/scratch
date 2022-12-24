@@ -18,6 +18,9 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - ### 7. [Počet kliknutí](/cvi%C4%8Den%C3%AD/07-po%C4%8Det_kliknut%C3%AD/zadan%C3%AD.md)
 
+- ### 8. [Zjednodušení do funkce](/cvi%C4%8Den%C3%AD/08-zjednodu%C5%A1en%C3%AD_do_funkce/zadan%C3%AD.md)
+
+
 ## TODO
 
 - [x] První program
@@ -34,7 +37,7 @@ Jedná se o blokový programovací jazyk vyvinut na MIT.
 
 - [x] Počet kliknutí
 
-- [ ] Zjednodušení do funkce
+- [x] Zjednodušení do funkce
 
 - [ ] Chytání jablek
 
