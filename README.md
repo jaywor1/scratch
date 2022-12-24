@@ -1,5 +1,3 @@
-# UNDER CONSTRUCTION rn !!!
-
 # Scratch
 Jedná se o blokový programovací jazyk vyvinut na MIT.
 
