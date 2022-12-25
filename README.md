@@ -1,5 +1,5 @@
 # Scratch
-Jedná se o blokový programovací jazyk vyvinut na MIT.
+Jedná se o blokový programovací jazyk vyvinut na MIT, který se používá převážně na výuku základů programování.
 
 ## Cvičení
 - ### 1. [První program](/cvi%C4%8Den%C3%AD/01-prvn%C3%AD_program/zad%C3%A1n%C3%AD.md)
