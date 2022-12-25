@@ -40,4 +40,8 @@ Jedná se o blokový programovací jazyk vyvinut na MIT, který se používá p�
 
 - [x] Chytání jablek
 
+- [ ] Obecná teorie
+
+- [ ] Přidat Scratch project řešení
+
 - [ ] Zkrášlení 💖
